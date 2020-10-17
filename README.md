@@ -9,3 +9,6 @@ Depending on which plugin manager you use, do:
 
 
 * ```Plugin 'v1nte/vim-pop' ```
+
+## How to use
+Press `<leader>op`
