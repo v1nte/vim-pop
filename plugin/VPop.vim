@@ -18,7 +18,7 @@ func! VPop()
     elseif &filetype == 'go'
         exec "!go build %<"
         exec "!time go run % > %<_output.txt"
-    elseif &filetype == 'js'
+    elseif &filetype == 'javascript'
         exec "!time node % > %<_output.txt"
     endif
 endfunc
