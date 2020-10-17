@@ -3,7 +3,7 @@ Print Output to a txt file
 
 ## install
 
-Depending on wich plugin manager you use, do:
+Depending on which plugin manager you use, do:
 
 * ```Plug 'v1nte/vim-pop' ```
 
